@@ -24,9 +24,7 @@
 * CSE
 * ECE
 * EEE
-* IT
-* CIVIL
-* MECH
+
 
 ### NESTED LISTS
 1. CSE
